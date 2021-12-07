@@ -1,5 +1,5 @@
-package com.nnxy;
+package pro1;
 
 public class UserController {
-	
+
 }
